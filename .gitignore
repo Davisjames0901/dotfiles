@@ -9,6 +9,12 @@
 
 !.config/nvim/
 !.config/nvim/*
+!.config/nvim/lua/
+!.config/nvim/lua/*
+!.config/nvim/lua/custom/
+!.config/nvim/lua/custom/*
+!.config/nvim/lua/kickstart/
+!.config/nvim/lua/kickstart/*
 .config/nvim/tags
 .config/nvim/lazy-lock.json
 .config/nvim/spell/
