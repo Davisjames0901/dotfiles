@@ -9,6 +9,10 @@
 
 !.config/nvim/
 !.config/nvim/*
+.config/nvim/tags
+.config/nvim/lazy-lock.json
+.config/nvim/spell/
+.config/nvim/.luarc.json
 
 !.config/hypr/
 !.config/hypr/*
