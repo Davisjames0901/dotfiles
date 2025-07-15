@@ -1,8 +1,11 @@
 *
-!.config/
 
-!.config/ghostty
-!.config/nvim
-!.config/hypr
-!.config/waybar
-!.config/wofi
+!.config
+!.zshrc
+!.p10k.zsh
+
+!.config/ghostty/*
+!.config/nvim/*
+!.config/hypr/*
+!.config/waybar/*
+!.config/wofi/*
