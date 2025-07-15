@@ -5,8 +5,16 @@
 !.p10k.zsh
 
 !.config/ghostty/
+!.config/ghostty/*
+
 !.config/nvim/
+!.config/nvim/*
+
 !.config/hypr/
 !.config/hypr/*
+
 !.config/waybar/
+!.config/waybar/*
+
 !.config/wofi/
+!.config/wofi/*

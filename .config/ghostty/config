@@ -1,0 +1,5 @@
+theme=ayu
+shell-integration=zsh
+mouse-hide-while-typing=true
+gtk-single-instance=true
+gtk-titlebar=false
