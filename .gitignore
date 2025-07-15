@@ -1,11 +1,12 @@
 *
 
-!.config
+!.config/
 !.zshrc
 !.p10k.zsh
 
-!.config/ghostty/*
-!.config/nvim/*
+!.config/ghostty/
+!.config/nvim/
+!.config/hypr/
 !.config/hypr/*
-!.config/waybar/*
-!.config/wofi/*
+!.config/waybar/
+!.config/wofi/
